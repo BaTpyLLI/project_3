@@ -1,0 +1,7 @@
+[user]
+	name = Александр Шешуков
+	email = batpylli@gmail.com
+[core]
+	editor = nano
+[alias]
+	history = log --graph
